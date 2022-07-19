@@ -1,0 +1,28 @@
+README MP1: Recursion and Intro to Classes 
+
+1. Name: Kevin Le
+   Student ID: 2406054
+   Chapman email: kevle@chapman.edu
+   Course: CPSC 231-04
+   MP1: Recursion and Intro to Classes 
+
+2) Harmonic.java
+   Profile.java
+
+3) Two seperate methods were made to return 
+   the Liked and Match arrays as Strings. These 
+   methods were then implemented into the toString 
+   method. Multiple "filler" instances of Profile were created
+   to demonstrate when an array was full. Some tabs and asterisk 
+   lines were added in output for readability purposes.
+
+4) Dr. Lledo helped with the swipeRight method
+
+5) javac Harmonic.java 
+   java Harmonic
+
+   javac Profile.java 
+   java Profile
+
+	
+
